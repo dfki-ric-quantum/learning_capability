@@ -1,0 +1,9 @@
+Name		Description
+------------------------------------------------------------
+c_50_a:		100 functions of x_steps=50 up to degree 6
+c_50_alt:	100 functions of x_steps=50 up to degree 6
+c_100_a: 	100 functions of x_steps=100 up to degree 12
+c_100_alt:	100 functions of x_steps=100 up to degree 12
+------------------------------------------------------------
+xcorr_c_100_a	all absolute noramlized cross-correlation vlaues of upper triangle matrix for functions in c_100_a
+xcorr_c_100_alt	all absolute noramlized cross-correlation vlaues of upper triangle matrix for functions in c_100_alt
